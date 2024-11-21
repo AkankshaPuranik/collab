@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiiiiiiiiiiii
+=======
+bye
+>>>>>>> feature-branch
